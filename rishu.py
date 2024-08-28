@@ -187,10 +187,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "\033[1;94mWrong Password"
-            os.system('xdg-https://wa.me/+923188214452')
+            os.system('xdg-https://wa.me/+918595034344')
     else:
         print "\033[1;94mWrong Username"
-        os.system('xdg-https://wa.me/+923188214452')
+        os.system('xdg-https://wa.me/+918595034344')
 
 
 numm = [5,2,5,2,2]
