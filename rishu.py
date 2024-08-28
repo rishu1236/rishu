@@ -169,8 +169,8 @@ logo2 = """
 ╚══──────────────────────────╝─══╝
 """
 print("""
-Owner: RISHU R9J
-Facebook: RISHU R9J
+Owner: RED-MAFIA(R.K)
+Facebook: RIAZ-HACKER
 
 """)
 CorrectUsername = "TH3 KING"
